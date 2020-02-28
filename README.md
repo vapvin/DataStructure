@@ -3,7 +3,7 @@ Data Structure Lecture Docs Repos
 
 ## Chapter
 
-- [ ] Array
+- [x] Array
 - [ ] Queue
 - [ ] Stack
 - [ ] Linked List
